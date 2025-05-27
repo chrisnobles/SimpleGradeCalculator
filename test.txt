@@ -1,4 +1,0 @@
-This is a timestamp test.
-
-Current Time: November 19, 2023 @ 4:30pm
-
